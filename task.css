@@ -1,0 +1,178 @@
+body{
+    background: url('/pic2.jpg');
+    background-size: cover;
+    background-color: black;
+    background-size: cover;
+}
+#navbar{
+    color:black;
+    background-color:rgba(203, 203, 212, 0.2);
+    height: 50px;
+    position: fixed;
+    top:0px;
+    left: 0px;
+    right: 0px;
+    
+ }
+ #logo{
+   color: wheat;
+   font-family: cursive;
+   size: 50px;
+   margin-right: 800px;
+ }
+
+ 
+ a{
+    color:black;
+        margin-right:50px ;
+        font-size: 30px;
+        margin-left: 50px;
+        text-decoration: none;
+        font-size: 40px;
+    }
+    #pic{
+        margin-top: 200px;
+        margin-left:200px ;
+        text-align: right;
+        font-size: 50px;
+        margin-right: 100px;
+        border-radius: 50%;
+        
+        
+
+    }
+    #HEADING1{
+        color:white;
+        font-size: 100PX;
+        font-family: cursive;
+        padding-top: 10px;
+        padding-left: 200PX;
+       }
+       #HEADING2{
+        color:brown;
+        font-family:cursive;
+        font-size: 100px;
+        padding-top: 10px;
+        padding-left: 2%;
+        margin-left: 170px;
+       }
+    footer{
+       color:white;
+       background-color:black;
+       height: 100px;
+       width: 2000px;
+       font-size: 20px;
+    }
+    #last{
+       color:white;
+       text-align: center;
+       font-size: 20px;
+       font-family: 'Times New Roman', Times, serif;
+    }
+    #about{
+       color:black;
+       font-family: cursive;
+       font-size: 60px;
+       text-align: center;
+       text-decoration: underline;
+    }
+    #pic2{
+       height: 500px;
+       width: 500px;
+       margin-left: 650px;
+       margin-top: 60px;
+       border-radius: 50%;
+       margin-bottom: 50px;
+       background-color: rgba(203, 203, 212, 0.2);
+    }
+    #ab{
+       color: azure;
+       font-size: 30px;
+       font-family: 'Times New Roman', Times, serif;
+       text-align: center;
+       margin-left: 100px;
+       margin-right: 100px;
+    }
+    #contact{
+       text-align: center;
+       font-family: cursive;
+       color: white;
+       font-size: 60px;
+       text-decoration: underline;
+    }
+    #co{
+       text-align: center;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 30px;
+       color: brown;
+    }
+    #out{
+       background-color: rgba(203, 203, 212, 0.2);
+       margin-left: 100px;
+       margin-right: 100px;
+
+    }
+    #sk{
+       background-color: rgba(203, 203, 212, 0.2);
+       color: azure;
+       margin-left: 200px;
+       margin-right: 200px;
+    }
+    
+    
+    #name{
+    color: black;
+    background-color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 70px;
+    
+    }
+    
+    #email{
+       color: black;
+    background-color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 70px;
+    }
+    #comment{
+       color: black;
+    background-color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left:70px ;
+    }
+    #submit{
+       color:black;
+       background-color: aquamarine;
+       font-size: 20px;
+       margin-top: 20px;
+       margin-left: 120px;
+    }
+    #skill{
+       color: black;
+       font-family: cursive;
+       text-decoration: underline;
+       font-size: 50px;
+       text-align: center;
+    }
+    li{
+       color: azure;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 30px;
+       text-align: center;
+       
+    }
+    
+    #f{
+       background-color:gray;
+       height: 400px;
+       width: 400px;
+       border-radius: 10px;
+       margin-left: 700px;
+       padding-top: 20px;
+    }
+    #div1{
+      display: inline;
+    }
